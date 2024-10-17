@@ -1,0 +1,53 @@
+h1 {
+    color: #00b4d8;
+    text-align: center;
+}
+
+body {
+    background-image: url("https://w7.pngwing.com/pngs/766/299/png-transparent-galaxy-illustration-space-hd-miscellaneous-texture-blue.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #ffff;
+}
+
+p {
+    text-align: center;
+    margin-inline: 25%;
+    font-size: 21px;
+    width: 800px;
+}
+
+nav {
+    height: 60px;
+    background-color:#00b4d8;
+    text-align: center;
+}
+
+nav ul{
+    list-style: none;
+    display: inline-block;
+    padding:0px;
+ }
+
+nav ul li{
+    float: left;
+    margin-top: 3px;
+}
+
+nav ul li a {
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+    font-size: 20px;
+    padding: 18px;
+}
+
+nav ul li a:hover{
+  background-color: #a8dadc;
+}
+
+.copy {
+    text-align: right;
+    padding-top: 2%;
+    color: #fbb117;  
+}
